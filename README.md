@@ -32,6 +32,8 @@ In this program, the user can enter anything, even when prompted with entering a
 ## Getting Started
 The project was designed to be ran in the command prompt on windows machines.  You can download the RestRatingsPart5 directory and save it onto your device.  Then, run the command prompt and change the directory until you are within the RestRatingsPart5 folder.  Afterwards, you can run make and the project should compile.  Otherwise, you may need to change the file path within the code manually in order for the code to compile.
 
+Once the file path is set up correctly, you then are prompted to log into the application.  For this version of the project, you need to use the following login credentials: the name should be <em>Garrett</em> and the password is <em>garrettbovo</em>.
+
 ## Contact
 Name: Garrett Ellis\
 Project Link: [https://github.com/Python-Coding-Assignments/Restaurant-Ratings-Part-4]()
